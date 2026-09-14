@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://borealconfort.ca/sitemap.xml
